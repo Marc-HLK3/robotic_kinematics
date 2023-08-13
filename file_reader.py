@@ -1,4 +1,4 @@
-# import pandas as pd
+import pandas as pd
 class FileReader():
     def __init__(self, file_path):
         self.file_path = file_path
